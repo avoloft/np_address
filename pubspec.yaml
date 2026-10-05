@@ -1,0 +1,21 @@
+name: np_address
+description: >-
+  Modern, type-safe Nepal administrative address data package.
+  Provides immutable models and query APIs for Province, Zone, District,
+  Municipality (Local Level), and Ward data with Nepali Unicode support.
+version: 1.0.0
+homepage: https://github.com/avoloft/np_address
+repository: https://github.com/avoloft/np_address
+issue_tracker: https://github.com/avoloft/np_address/issues
+
+environment:
+  sdk: ^3.12.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
