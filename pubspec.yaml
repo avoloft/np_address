@@ -3,7 +3,7 @@ description: >-
   Modern, type-safe Nepal administrative address data package.
   Provides immutable models and query APIs for Province, Zone, District,
   Municipality (Local Level), and Ward data with Nepali Unicode support.
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/avoloft/np_address
 repository: https://github.com/avoloft/np_address
 issue_tracker: https://github.com/avoloft/np_address/issues

@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/avoloft/np_address/main/np_address.webp" height="120" alt="np_address logo" />
+  <img src="https://raw.githubusercontent.com/avoloft/np_address/main/np_address.webp" height="72" alt="np_address logo" />
 </p>
 
 <h1 align="center">np_address</h1>
@@ -34,7 +34,7 @@ Add `np_address` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  np_address: ^1.0.0
+  np_address: ^1.0.1
 ```
 
 Then run:

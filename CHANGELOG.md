@@ -1,3 +1,8 @@
+## 1.0.1
+
+* Updated documentation and optimized brand asset sizing.
+* Minor formatting and metadata refinements.
+
 ## 1.0.0
 
 * Initial stable release of `np_address` by Avoloft Technologies Pvt. Ltd.
